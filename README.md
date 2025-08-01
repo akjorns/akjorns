@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi! I'm Alex 👋  
+🎓 Major: Mathematics with a focus in Data Science  
+🔬 Randall Research Scholars Program at The University of Alabama  
+📍 From: New Orleans, Louisiana  
 
-<!--
-**akjorns/akjorns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech & Tools:  
+Python · R · SQL · Power BI · Tableau · Excel · HTML/CSS · JavaScript · Git/GitHub · VS Code · SpaCy · C · Canva  
 
-Here are some ideas to get you started:
+🏅 Awards & Leadership  
+🏆 Winner, Congressional App Challenge (College Collage)  
+🧠 Kode With Klossy Data Storytelling Challenge, Book Club, and 3x Scholar
+👩🏻‍💻 Founder & President, Girls Who Code College Loop at UA  
+💼 Girls Who Code Athenahealth Work Prep Fellow and Scholar
+📚 Research: Mapping Personal Finance Education and Fashion Digitalization 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Website  
+🔗 [alexjorns.com](https://alexjorns.com) — check out my projects, writing, and research
