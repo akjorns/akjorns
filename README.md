@@ -1,4 +1,4 @@
-Hi! I'm Alex 
+Hi! I'm Alex!!
 
 **Major:** Mathematics with a focus in Data Science  
 **Program:** Randall Research Scholars Program at The University of Alabama  
@@ -15,4 +15,4 @@ Girls Who Code Athenahealth Work Prep Fellow and Scholar
 Research: Mapping Personal Finance Education and Fashion Digitalization  
 
 **Website**  
-🔗 [akjorns.github.io](https://akjorns.github.io) — check out my projects and research
+ [akjorns.github.io](https://akjorns.github.io) — check out my projects and research
